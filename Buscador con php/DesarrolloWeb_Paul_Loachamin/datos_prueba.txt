@@ -1,0 +1,42 @@
+
+ /*  $datos_producto = '<div class="itemMostrado card horizontal">' +
+         '<img src="img/home.jpg">'+
+         '<div class="card-stacked">'+
+         '<div class="card-content">'+
+         '<div>'+
+         '<b>Direccion: </b>:direccion:<p></p>'+
+         '</div>'+
+         '<div>'+
+         '<b>Ciudad: </b>:ciudad:<p></p>'+
+         '</div>'+
+         '<div>'+
+         '<b>Telefono: </b>:telefono:<p></p>'+
+         '</div>'+
+         '<div>'+
+         '<b>Código postal: </b>:codigo_postal:<p></p>'+
+         '</div>'+
+         '<div>'+
+         '<b>Precio: </b>:precio:<p></p>'+
+         '</div>'+
+         '<div>'+
+         '<b>Tipo: </b>:tipo:<p></p>'+
+         '</div>'+
+         '</div>'+
+         '<div class="card-action right-align">'+
+         '<a href="#">Ver más</a>'+
+         '</div>'+
+         '</div>'+
+         "</div>";*/
+ //$datos_final = $datos_producto.replace(':direccion:',$producto["Direccion"])
+//  .replace(':ciudad:', $json_clientes["Ciudad"])
+//.replace(':telefono:', $json_clientes["telefono"])
+//  .replace(':codigo_postal:',$json_clientes["Codigo_Postal"])
+//  .replace(':precio:', $json_clientes["Precio"])
+//.replace(':tipo:', $json_clientes["Tipo"]);
+//  echo str_replace(':direccion:',$producto["Direccion"],$datos_final);
+ //self.contBienes.append(newBien)
+*/
+
+//foreach ($json_productos as $product) {
+//    print_r($product["Direccion"]);
+//}
